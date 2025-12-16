@@ -1,6 +1,9 @@
 # APEX Arithmetic Torus Visualizer
 
-Real-time JavaScript visualizer exploring KAM-like invariant tori driven by Ramanujan's partition function p(n) mod M on a golden-angle circle map.
+This demo shows how simple arithmetic forcing can generate long-lived invariant structures resembling KAM tori without explicit Hamiltonian dynamics.
+Parameters:
+- A, B control arithmetic forcing strength
+- M sets modular periodicity of the partition sequence
 
 🔗 **Live Demo**: https://wildsynthai.github.io/apex-arithmetic-torus-visualizer/
 
