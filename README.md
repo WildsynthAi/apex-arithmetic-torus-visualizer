@@ -2,7 +2,7 @@
 
 Real-time JavaScript visualizer exploring KAM-like invariant tori driven by Ramanujan's partition function p(n) mod M on a golden-angle circle map.
 
-🔗 **Live Demo**: https://github.com/WildsynthAi/apex-arithmetic-torus-visualizer.git
+🔗 **Live Demo**: https://wildsynthai.github.io/apex-arithmetic-torus-visualizer/
 
 ### Best parameters for stunning rings:
 - A=1, B=0, M=13 → Nested concentric tori
